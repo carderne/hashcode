@@ -1,3 +1,8 @@
-# A not-too-serious attempt at Google Hash Code 2019
+# A not-too-serious attempt at the pizza problem for Google Hash Code 2019
 
-Attempts for each problem in different folders.
+## Current scores:
+
+a: 15 (100%)  
+b: 38 (90%)  
+c: 48616 (97%)  
+d: 849642 (85%)
